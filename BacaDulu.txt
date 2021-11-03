@@ -1,0 +1,23 @@
+1. Untuk Buat HTML
+
+Resource -> Layout -> Main
+
+
+2. Edit Navbar
+Resource -> Partials -> Navbar
+Note:
+
+
+3. Buat Asset di public (CSS,Javascript)
+Tinggal di connect ke main.blade.php, harusnya udah jalan. Aku udah buatin folder kosong
+
+
+4. Klo mau pake Link ( emmet: a), liat di bagian routes-> web untuk bagian routing.
+
+
+Untuk Styling Navbar, ga sengaja kebuat pake bootstrap, tapi bisa juga dibuat pake css biasa.
+Tinggal Hapus Ulang Navbarnya.
+
+
+Untuk Script di About klo mau inisialisasi variable bisa dari routes -> web.php. 
+Aku Ada contoh untuk about page

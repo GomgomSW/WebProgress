@@ -1,0 +1,1 @@
+alert("Wak sry dirumah aku lagi ada masalah, ga bisa bantu dlu");
